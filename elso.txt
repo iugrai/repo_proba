@@ -2,3 +2,7 @@ Létrehoztam a txt. filet
 próba szerencse
 
 Tovább szerkesztettem az elso.txt filet
+
+Az a szerencse, hogy ez a dolog működik
+
+Azt hiszem kezdtem érteni, hogy mi a lényeg
