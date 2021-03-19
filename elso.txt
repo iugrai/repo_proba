@@ -1,2 +1,4 @@
 Létrehoztam a txt. filet
 próba szerencse
+
+Tovább szerkesztettem az elso.txt filet
